@@ -1,0 +1,86 @@
+{
+    "items":[
+        {
+            "slno":"1",
+            "name":"Milk",
+            "qnty":"1",
+            "unit":"Ltr",
+            "dpmt":"Dairy",
+            "note":"Milma Product"
+        },
+        {
+            "slno":"2",
+            "name":"Butter",
+            "qnty":"250",
+            "unit":"Mltr",
+            "dpmt":"Dairy",
+            "note":"Milma Product"
+        },
+        {
+            "slno":"3",
+            "name":"Yogurt",
+            "qnty":"1",
+            "unit":"Ltr",
+            "dpmt":"Dairy",
+            "note":"Milma Product"
+        },
+        {
+            "slno":"4",
+            "name":"Rice",
+            "qnty":"5",
+            "unit":"Kg",
+            "dpmt":"Grains",
+            "note":"Nirapara Product"
+        },
+        {
+            "slno":"5",
+            "name":"Wheat",
+            "qnty":"2",
+            "unit":"Kg",
+            "dpmt":"Grains",
+            "note":"ITC Product"
+        },
+        {
+            "slno":"6",
+            "name":"Mustard",
+            "qnty":"100",
+            "unit":"Gms",
+            "dpmt":"Spices",
+            "note":"ITC Product"
+        },
+        {
+            "slno":"7",
+            "name":"Chilly Powder",
+            "qnty":"500",
+            "unit":"Gms",
+            "dpmt":"Spices",
+            "note":"ITC Product"
+        },
+        {
+            "slno":"8",
+            "name":"Green Beans",
+            "qnty":"1",
+            "unit":"Kgm",
+            "dpmt":"Dry Goods",
+            "note":"LM Food Product"
+        },
+        {
+            "slno":"9",
+            "name":"Black Beans",
+            "qnty":"1",
+            "unit":"Kgm",
+            "dpmt":"Dry Goods",
+            "note":"LM Food Product"
+        },
+        {
+            "slno":"10",
+            "name":"Peanut",
+            "qnty":"500",
+            "unit":"Gms",
+            "dpmt":"Dry Goods",
+            "note":"LM Food Product"
+        }
+    ]
+}
+
+
